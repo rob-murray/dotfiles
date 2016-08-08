@@ -143,6 +143,7 @@ brew install ucspi-tcp
 brew install libevent
 # brew install postgresql
 brew install unixodbc
+brew install gpg2
 brew install libgpg-error
 brew install libidn
 brew install pyside
