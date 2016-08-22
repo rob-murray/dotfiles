@@ -102,5 +102,80 @@ brew install vbindiff
 brew install webkit2png
 brew install zopfli
 
+# my custom things
+brew install gnupg
+brew install ruby-build
+brew install go
+brew install mpfr
+brew install screen
+brew install autoconf
+brew install grep
+brew install mysql
+brew install automake
+brew install heroku
+brew install shiboken
+brew install httpie
+brew install nginx
+brew install hub
+brew install node
+brew install sqlite
+brew install    icu4c
+brew install openssh
+brew install ssdeep
+brew install imagemagick
+brew install openssl
+brew install ctags
+brew install isl
+brew install curl
+brew install isl014
+brew install parity
+brew install jasper
+brew install pcre
+brew install php56
+brew install the_silver_searcher
+brew install jpeg
+brew install tmux
+brew install dnsmasq
+brew install pkg-config
+brew install elasticsearch
+brew install libdnet
+brew install ucspi-tcp
+brew install libevent
+# brew install postgresql
+brew install unixodbc
+brew install gpg2
+brew install libgpg-error
+brew install libidn
+brew install pyside
+brew install vim
+brew install freetype
+brew install libksba
+brew install qt
+brew install gcc
+brew install libmpc
+brew install rbenv
+brew install webp
+brew install gcc5
+brew install libpng
+brew install rcm
+brew install wget
+brew install gettext
+brew install libtiff
+brew install readline
+brew install libtool
+brew install reattach-to-user-namespace
+brew install libxml2
+# brew install redis
+brew install gmp
+brew install libyaml
+brew install gnu-sed
+brew install gnu-tar
+
+brew install Caskroom/cask/pgadmin3
+brew install Caskroom/cask/sourcetree
+brew install Caskroom/cask/java
+brew install Caskroom/cask/firefox
+brew install Caskroom/cask/postman
+
 # Remove outdated versions from the cellar.
 brew cleanup

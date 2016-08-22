@@ -3,6 +3,9 @@
 	# View abbreviated SHA, description, and history graph of the latest 20 commits
 	l = log --pretty=oneline -n 20 --graph --abbrev-commit
 
+  # As above, with more stuff
+  lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+
 	# View the current working tree status using the short format
 	s = status -s
 
@@ -180,3 +183,6 @@
 [url "git://gist.github.com/"]
 
 	insteadOf = "gist:"
+
+[gpg]
+  program = gpg2
