@@ -1,5 +1,5 @@
 --database=postgresql
---skip-action-mailer
+--skip-action-cable
 --skip-bundle
 --skip-keeps
 --skip-spring
