@@ -43,7 +43,6 @@ brew install vim --with-override-system-vi
 brew install grep
 brew install openssh
 brew install screen
-brew install php
 brew install gmp
 
 # Install font tools.
@@ -98,8 +97,6 @@ brew install zopfli
 
 # my custom things
 brew install gnupg
-brew install ruby-build
-brew install go
 brew install mpfr
 brew install screen
 brew install autoconf
@@ -111,7 +108,6 @@ brew install shiboken
 brew install httpie
 brew install nginx
 brew install hub
-brew install node
 brew install sqlite
 brew install    icu4c
 brew install openssh
@@ -125,7 +121,6 @@ brew install isl014
 brew install parity
 brew install jasper
 brew install pcre
-brew install php56
 brew install the_silver_searcher
 brew install jpeg
 brew install tmux
@@ -147,7 +142,6 @@ brew install libksba
 brew install qt
 brew install gcc
 brew install libmpc
-brew install rbenv
 brew install webp
 brew install gcc5
 brew install libpng
@@ -167,8 +161,6 @@ brew install gnu-tar
 
 brew install Caskroom/cask/pgadmin3
 brew install Caskroom/cask/sourcetree
-brew install Caskroom/cask/java
-brew install Caskroom/cask/firefox
 brew install Caskroom/cask/postman
 
 # Remove outdated versions from the cellar.
